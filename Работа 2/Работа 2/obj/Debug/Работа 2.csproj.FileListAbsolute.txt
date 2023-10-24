@@ -1,7 +1,0 @@
-C:\Users\ЕГОР\source\repos\Работа 2\Работа 2\bin\Debug\Работа 2.exe.config
-C:\Users\ЕГОР\source\repos\Работа 2\Работа 2\bin\Debug\Работа 2.exe
-C:\Users\ЕГОР\source\repos\Работа 2\Работа 2\bin\Debug\Работа 2.pdb
-C:\Users\ЕГОР\source\repos\Работа 2\Работа 2\obj\Debug\Работа 2.csproj.AssemblyReference.cache
-C:\Users\ЕГОР\source\repos\Работа 2\Работа 2\obj\Debug\Работа 2.csproj.CoreCompileInputs.cache
-C:\Users\ЕГОР\source\repos\Работа 2\Работа 2\obj\Debug\Работа 2.exe
-C:\Users\ЕГОР\source\repos\Работа 2\Работа 2\obj\Debug\Работа 2.pdb
