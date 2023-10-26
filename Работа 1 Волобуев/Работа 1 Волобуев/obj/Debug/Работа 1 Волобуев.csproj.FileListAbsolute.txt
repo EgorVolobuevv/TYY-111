@@ -1,7 +1,0 @@
-C:\Users\ЕГОР\source\repos\Работа 1 Волобуев\Работа 1 Волобуев\obj\Debug\Работа 1 Волобуев.csproj.AssemblyReference.cache
-C:\Users\ЕГОР\source\repos\Работа 1 Волобуев\Работа 1 Волобуев\obj\Debug\Работа 1 Волобуев.csproj.CoreCompileInputs.cache
-C:\Users\ЕГОР\source\repos\Работа 1 Волобуев\Работа 1 Волобуев\bin\Debug\Работа 1 Волобуев.exe.config
-C:\Users\ЕГОР\source\repos\Работа 1 Волобуев\Работа 1 Волобуев\bin\Debug\Работа 1 Волобуев.exe
-C:\Users\ЕГОР\source\repos\Работа 1 Волобуев\Работа 1 Волобуев\bin\Debug\Работа 1 Волобуев.pdb
-C:\Users\ЕГОР\source\repos\Работа 1 Волобуев\Работа 1 Волобуев\obj\Debug\Работа 1 Волобуев.exe
-C:\Users\ЕГОР\source\repos\Работа 1 Волобуев\Работа 1 Волобуев\obj\Debug\Работа 1 Волобуев.pdb
