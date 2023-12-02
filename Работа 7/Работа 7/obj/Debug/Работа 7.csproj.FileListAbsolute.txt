@@ -1,0 +1,7 @@
+C:\Users\ЕГОР\source\repos\Работа 7\Работа 7\bin\Debug\Работа 7.exe.config
+C:\Users\ЕГОР\source\repos\Работа 7\Работа 7\bin\Debug\Работа 7.exe
+C:\Users\ЕГОР\source\repos\Работа 7\Работа 7\bin\Debug\Работа 7.pdb
+C:\Users\ЕГОР\source\repos\Работа 7\Работа 7\obj\Debug\Работа 7.csproj.AssemblyReference.cache
+C:\Users\ЕГОР\source\repos\Работа 7\Работа 7\obj\Debug\Работа 7.csproj.CoreCompileInputs.cache
+C:\Users\ЕГОР\source\repos\Работа 7\Работа 7\obj\Debug\Работа 7.exe
+C:\Users\ЕГОР\source\repos\Работа 7\Работа 7\obj\Debug\Работа 7.pdb
