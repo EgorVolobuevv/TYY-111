@@ -1,0 +1,7 @@
+C:\Users\ЕГОР\source\repos\Работа 8\Работа 8\bin\Debug\Работа 8.exe.config
+C:\Users\ЕГОР\source\repos\Работа 8\Работа 8\bin\Debug\Работа 8.exe
+C:\Users\ЕГОР\source\repos\Работа 8\Работа 8\bin\Debug\Работа 8.pdb
+C:\Users\ЕГОР\source\repos\Работа 8\Работа 8\obj\Debug\Работа 8.csproj.AssemblyReference.cache
+C:\Users\ЕГОР\source\repos\Работа 8\Работа 8\obj\Debug\Работа 8.csproj.CoreCompileInputs.cache
+C:\Users\ЕГОР\source\repos\Работа 8\Работа 8\obj\Debug\Работа 8.exe
+C:\Users\ЕГОР\source\repos\Работа 8\Работа 8\obj\Debug\Работа 8.pdb
